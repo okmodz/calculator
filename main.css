@@ -9,17 +9,6 @@ body{
     background-color: rgb(0, 110, 255);
 }
 
-.name{
-    padding-top: 50px;
-    text-align: center;
-    color: rgb(255, 255, 255);
-}
-
-.name label{
-    font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
 .app {
 	display: flex;
 	justify-content: center;
